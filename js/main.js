@@ -69,7 +69,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["karam khalil.", "a Ethical hacker.", "Developer.", "Freelancer."],
+      strings: ["karam khalil.", "an Ethical hacker.", " a Developer.", "Freelancer."],
       typeSpeed: 100,
       loop: true,
     });
@@ -89,6 +89,7 @@ $(document).ready(function() {
     });
 
   
+
   
 
   // Call the functions

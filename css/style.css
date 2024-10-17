@@ -237,6 +237,13 @@ nav ul li a {
   width: 100%;
 }
 
+.typed  {
+  color: #0e0d0d;
+}
+
+.lou{
+  color : #0e0d0d;
+}
 
 #header .header-content {
   height: 100vh;
@@ -247,12 +254,13 @@ nav ul li a {
   flex-direction: column;
 }
 
+
 .header-content h1 {
   font-size: 40px;
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #ffffffe8;
+  color: #0e0d0d;
 }
 
 .header-content p {
@@ -261,7 +269,7 @@ nav ul li a {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color: #0e0d0d;
   font-weight: 500;
 }
 
